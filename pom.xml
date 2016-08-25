@@ -36,6 +36,7 @@
 </build>
     <modules>
         <module>CloudStreetMarket Webapp</module>
+        <module>CloudStreetMarket API</module>
     </modules>
 
 </project>
