@@ -37,6 +37,7 @@
     <modules>
         <module>CloudStreetMarket Webapp</module>
         <module>CloudStreetMarket API</module>
+        <module>CloudStreetMarket Core</module>
     </modules>
 
 </project>
